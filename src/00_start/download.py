@@ -13,7 +13,7 @@ print(f'Total time to fetch page: {t1 - t0} Seconds')
 soup = BeautifulSoup(req.read(), 'html.parser')
 
 for link in soup.find_all('a'):
-  print(link.get('href'))
+    print(link.get('href'))
 
 t2 = time.time()
 
