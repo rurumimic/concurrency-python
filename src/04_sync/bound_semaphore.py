@@ -30,7 +30,7 @@ class TicketSeller(threading.Thread):
 
     def randomDelay(self):
         delay = random.randint(0, 4)/4
-        # time.sleep(delay)
+        time.sleep(delay)
         return delay
 
 

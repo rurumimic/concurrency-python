@@ -1,5 +1,6 @@
-import urllib.request
 import time
+import urllib.request
+
 from bs4 import BeautifulSoup
 
 t0 = time.time()
