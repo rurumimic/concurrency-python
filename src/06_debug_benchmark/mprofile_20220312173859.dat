@@ -1,0 +1,5 @@
+CMDLINE /Users/dodo/.pyenv/versions/3.9.0/envs/concurrency/bin/python3.9 profile_decorator.py
+MEM 0.312500 1647074339.3809
+MEM 15.437500 1647074339.4825
+MEM 24.246094 1647074339.5877
+MEM 35.089844 1647074339.6929
