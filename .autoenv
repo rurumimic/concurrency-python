@@ -1,1 +1,2 @@
-conda activate concurrency
+conda deactivate;
+pyenv activate concurrency;
