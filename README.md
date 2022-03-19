@@ -6,6 +6,7 @@
 - doc v3 [korean](https://docs.python.org/ko/3/)
 - cpython [github](https://github.com/python/cpython)
 - book/github: [Learning Concurrency in Python](https://github.com/PacktPublishing/Learning-Concurrency-in-Python)
+  - crawler: [elliotforbes/python-crawler](https://github.com/elliotforbes/python-crawler)
 - John Bell: [Operating Systems](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 
 ## Python
