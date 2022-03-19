@@ -8,16 +8,18 @@
 - book/github: [Learning Concurrency in Python](https://github.com/PacktPublishing/Learning-Concurrency-in-Python)
   - crawler: [elliotforbes/python-crawler](https://github.com/elliotforbes/python-crawler)
 - John Bell: [Operating Systems](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
+- Communicating Sequential Processes: [pdf](http://www.usingcsp.com/cspbook.pdf) by C. A. R. Hoare
 
 ## Python
 
-```bash
-conda create -n concurrency python=3.10
-```
+Python 3.10
 
 ### Library
 
 ```bash
-conda install -c conda-forge autopep8
-conda install -c anaconda -y beautifulsoup4
+pip install autopep8
+pip install beautifulsoup4
+pip install line_profiler
+pip install memory_profiler
+pip install matplotlib
 ```
