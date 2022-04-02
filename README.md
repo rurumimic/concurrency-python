@@ -26,4 +26,5 @@ pip install Twisted
 pip install gevent
 pip install Rx
 pip install pyfunctional
+pip install tornado
 ```
