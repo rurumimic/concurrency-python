@@ -24,4 +24,6 @@ pip install memory_profiler
 pip install matplotlib
 pip install Twisted
 pip install gevent
+pip install Rx
+pip install pyfunctional
 ```
