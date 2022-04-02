@@ -22,4 +22,6 @@ pip install beautifulsoup4
 pip install line_profiler
 pip install memory_profiler
 pip install matplotlib
+pip install Twisted
+pip install gevent
 ```
